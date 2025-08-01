@@ -1,3 +1,4 @@
+# ⚠️ Prefer the script version (`pdf_resolution_conv_script.py`) for best performance and reliability, especially with large PDFs or on macOS.
 # PDF Image & Resolution Tools
 
 This repo provides two high-performance Jupyter notebooks for working with PDFs and images, optimized for speed and ease of use.
